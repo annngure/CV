@@ -1,10 +1,11 @@
 #intro_section{
     display:flex;
-    flex-direction: row;
+    flex-direction:row;
 }
 #name{
     color:#161B40;
 }
 #email{
     color:#161B40;
+    
 }
